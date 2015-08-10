@@ -1,6 +1,6 @@
 Javascript implementation of [Moshier's ephemeris](http://www.moshier.net) calculations for sun, planets, comets, asteroids and stars.
 
-Initially written by [mivion](https://github.com/mivion/ephemeris), I converted it into a node module. Right now, I am not sure if the calculations are correct. I publish the module as a starting point for others, too. Pull requests welcome!
+Initially written by [mivion](https://github.com/mivion/ephemeris), I converted it into a node module. I publish the module as a starting point for others, too. Pull requests welcome!
 
 ### Installation
 
